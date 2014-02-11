@@ -11,20 +11,7 @@
     </parent>
 
     <groupId>apteczka</groupId>
-    <artifactId>application</artifactId>
+    <artifactId>storage</artifactId>
     <version>0.1-SNAPSHOT</version>
-
-    <dependencies>
-        <dependency>
-            <groupId>apteczka</groupId>
-            <artifactId>logic</artifactId>
-            <version>0.1-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>apteczka</groupId>
-            <artifactId>storage</artifactId>
-            <version>0.1-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
 
 </project>

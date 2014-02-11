@@ -1,4 +1,4 @@
-package kit.uc.item.add;
+package kit.item;
 
 import lombok.Data;
 import org.joda.time.DateTime;

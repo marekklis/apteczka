@@ -10,9 +10,18 @@
     <version>0.1-SNAPSHOT</version>
     <modules>
         <module>application</module>
+        <module>logic</module>
+        <module>storage</module>
     </modules>
 
     <dependencies>
+        <!--framework adapters-->
+        <dependency>
+            <groupId>javax.inject</groupId>
+            <artifactId>javax.inject</artifactId>
+            <version>1</version>
+        </dependency>
+
         <!--utils-->
         <dependency>
             <groupId>pl.rabbitsoftware</groupId>

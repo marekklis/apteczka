@@ -1,6 +1,5 @@
-package kit.adapters.storage;
+package kit.item;
 
-import kit.uc.item.add.Item;
 import pl.rabbitsoftware.actionpossible.ActionPossible;
 
 public interface ItemInserter {
